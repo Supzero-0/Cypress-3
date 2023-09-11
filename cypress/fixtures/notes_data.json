@@ -1,0 +1,14 @@
+{
+    "validNote": {
+      "title": "Practice WebApp UI",
+      "description": "Finish the development of the UI Automation Practice WebApp",
+      "completed": false,
+      "category": "Home"
+    },
+    "invalidNote": {
+      "title": "lol",
+      "description": "Finish the development of the UI Automation Practice WebApp",
+      "completed": false,
+      "category": "Home"
+    }
+}
